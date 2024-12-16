@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\Admin\\Downloads\\SHINY",
+        "app_url": "https://chadicedtea.shinyapps.io/shiny/",
+        "app_id": 13529398,
+        "app_guid": null,
+        "title": "SHINY",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
